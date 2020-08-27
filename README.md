@@ -1,2 +1,1 @@
-# QUIMICA.8xp
-Prgm QUIMICA.8xp, 
+Prgm QUIMICA.8xp, desenvolvido em TI-BASIC.  Programa para auxiliar o estudo da Química no 10º ano (ao nível do Curso de Ciências e Tecnologia). Tendo todas as fórmulas necessárias. Divido em 6 partes: 1º Massa e tamanho dos átomos, 2º Energia dos eletrões , 3º Tabela Periódica, 4º Ligação química, 5º Gases e dispersões e 6º Transformações químicas.
