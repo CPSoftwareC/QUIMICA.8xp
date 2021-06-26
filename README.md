@@ -1,5 +1,7 @@
-<!-- README.md Versão 1.1 -->
+<!-- README.md Versão 1.2 -->
 <h1>Prgm QUIMICA</h1>
+
+![GitHub all releases](https://img.shields.io/github/downloads/CPSoftwareC/QUIMICA.8xp/total)
 
 ![menu_principal](https://user-images.githubusercontent.com/67112321/100032015-e9a05f80-2dee-11eb-8ba9-0fb89f4899c7.png)
 
