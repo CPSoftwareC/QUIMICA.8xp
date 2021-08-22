@@ -1,62 +1,55 @@
-<!-- README.md Versão 1.2 -->
-<h1>Prgm QUIMICA</h1>
+# Prgm QUIMICA
 
 ![GitHub all releases](https://img.shields.io/github/downloads/CPSoftwareC/QUIMICA.8xp/total)
 
 ![menu_principal](https://user-images.githubusercontent.com/67112321/100032015-e9a05f80-2dee-11eb-8ba9-0fb89f4899c7.png)
 
-<h3>Biografia</h3>
+### Biografia
 
-<p>Desenvolvido em TI-BASIC. Programa para auxiliar o estudo da Química no 10º ano (ao nível do Curso de Ciências e Tecnologia). Tendo todas as fórmulas necessárias.</p>
-<p>Divido em 6 partes:</p><ol> 
-<li>Massa e tamanho dos átomos</li>
-<li>Energia dos eletrões</li>
-<li>Tabela Periódica</li>
-<li>Ligação química</li>
-<li>Gases e dispersões</li>
-<li>Transformações químicas</li>
-</ol>
+Desenvolvido em TI-BASIC. Programa para auxiliar o estudo da Química no 10º ano (ao nível do Curso de Ciências e Tecnologia). Tendo todas as fórmulas necessárias.
+Divido em 6 partes:
+1. Massa e tamanho dos átomos
+2. Energia dos eletrões
+3. Tabela Periódica
+4. Ligação química
+5. Gases e dispersões
+6. Transformações químicas
 
-<h2>Versão <em><strong>1.0</strong></em></h2>
 
-<h3>Compatibilidade</h3>
+## Versão _1.0_
 
-<ul>
- <li>TI-84 Plus CE</li>
- <li>TI-84 Plus CE-T</li>
- <li>TI-84 Plus CE-T Python Edition</li>
- <li>TI-84 Plus C Silver Edition</li>
- <li>TI-83 Premium CE</li>
- <li>TI-83 Premium CE Edition Python</li>
-</ul>
+### Compatibilidade
 
-<h3>Como instalar</h3>
+- TI-84 Plus CE
+- TI-84 Plus CE-T
+- TI-84 Plus CE-T Python Edition
+- TI-84 Plus C Silver Edition
+- TI-83 Premium CE
+- TI-83 Premium CE Edition Python
 
-<p>Para colocar o programa na TI-84 Plus CE/TI-84 Plus CE-T necessitas do software da Texas Instruments, TI Connect™ CE. <a href="https://education.ti.com/pt/produtos/computer-software/ti-connect-ce-sw"> Download do TI Connect™ CE</a>. Depois de instalado:
-<ol>
-     <li>Plug-in a tua calculadora e abre o TI Connect CE</li>
-     <li>Envia os seguintes ficheiros: <em>QUIMICA.8xp</em>, <em>QEnergia.8xp</em>, <em>QGases.8xp</em>, <em>QLigação.8xp</em>, <em>QMassata.8xp</em>, <em>QMenu.8xp</em>, <em>QTabela.8xp</em> e <em>QTransformações.8xp</em></li>
-     <li>Escolhe a tua calculadora</li>
-     <li>E clica no botão <kbd>Send</kbd> ou em português <kbd>Enviar</kbd></li>
-</ol>
+### Como instalar
 
-<p> E agora já tens o <em>QUIMICA</em> na tua calculadora</p>
+Para colocar o programa na TI-84 Plus CE/TI-84 Plus CE-T necessitas do software da Texas Instruments, TI Connect™ CE. [Download do TI Connect™ CE](https://education.ti.com/pt/produtos/computer-software/ti-connect-ce-sw). Depois de instalado:
 
-<h3>Como executar</h3>
+1. Plug-in a tua calculadora e abre o TI Connect CE
+2. Envia os seguintes ficheiros: _QUIMICA.8xp_, _QEnergia.8xp_, _QGases.8xp_, _QLigação.8xp_, _QMassata.8xp_, _QMenu.8xp_, _QTabela.8xp_ e _QTransformações.8xp_
+3. Escolhe a tua calculadora
+4. E clicar no botão <kbd>Send</kbd> ou em português <kbd>Enviar</kbd>
 
-<p> Para executar o programa basta pressionar o <kbd>prgm</kbd> (Menu de programas do TI-OS) e selecionar o programa <em>QUIMICA</em></p>
+E agora já tens o _QUIMICA_ na tua calculadora
 
-<ol>
-     <li><kbd>prgm</kbd></li>
-     <li><kbd>alpha</kbd> + <kbd>9</kbd></li>
-     <li>E selecionar o <em>QUIMICA</em></li>
-     <li>E por ultimo pressionar <kbd>enter</kbd></li>
-</ol>
+### Como executar
 
-<h2>Programador: <strong><em>J.C.P.</em></strong></h2>
+Para executar o programa basta pressionar o <kbd>prgm</kbd> (Menu de programas do TI-OS) e selecionar o programa _QUIMICA_
 
-<h4><a href="http://cpsoftwarecompany.epizy.com">Website da CP Software 
-Company</a></h4>
+1. <kbd>prgm</kbd>
+2. <kbd>alpha</kbd> + <kbd>9</kbd>
+3. Selecionar o <em>QUIMICA</em>
+4. E por ultimo pressionar <kbd>enter</kbd>
 
-<h3>Bibliografia:</h3>
-<p>NOVO 10Q - Física e Química A ⚫ <strong>Química 10º ano</strong>, de João Paiva, António José Ferreira e Carlos Fiolhais, da Leya (Texto)</p>
+## Programador: _J.C.P._
+
+#### [Website da CP Software Company](http://cpsoftwarecompany.epizy.com)
+
+### Bibliografia:
+NOVO 10Q - Física e Química A ⚫ <strong>Química 10º ano</strong>, de João Paiva, António José Ferreira e Carlos Fiolhais, da Leya (Texto)
