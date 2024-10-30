@@ -47,9 +47,9 @@ Para executar o programa basta pressionar o <kbd>prgm</kbd> (Menu de programas d
 3. Selecionar o <em>QUIMICA</em>
 4. E por ultimo pressionar <kbd>enter</kbd>
 
-## Programador: _J.C.P._
+## Programador: _jp2435_
 
-#### [Website da CP Software Company](http://cpsoftwarecompany.epizy.com)
+#### [Website da CP Software](http://cpsoftware.pt)
 
 ### Bibliografia:
 NOVO 10Q - Física e Química A ⚫ <strong>Química 10º ano</strong>, de João Paiva, António José Ferreira e Carlos Fiolhais, da Leya (Texto)
